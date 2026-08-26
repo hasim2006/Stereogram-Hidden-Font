@@ -1,8 +1,7 @@
 # 🔮 Stereogram Hidden Font Studio
 
-<p align="center">
-  <img src="./docs/images/01_main_studio_interface.png" alt="Stereogram Hidden Font Studio Main Interface" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0, 240, 255, 0.2);" />
-</p>
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/927395b7-3b22-463f-9ed7-cc23a65221b0" />
+
 
 <p align="center">
   <strong>An advanced optical computing studio to encode hidden 3D text and geometry inside single-image autostereograms (Magic Eye-style) using precision pixel correspondence algorithms.</strong>
