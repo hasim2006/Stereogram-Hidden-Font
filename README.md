@@ -94,9 +94,8 @@ Instead of using flat 2D silhouettes, the studio applies an **Euclidean Distance
 
 ### 3. Autostereogram Pixel Correspondence Solver
 
-<p align="center">
-  <img src="./docs/images/05_magic_eye_preset.png" alt="90s Magic Eye Classic SIRDS" width="90%" style="border-radius: 10px; border: 1px solid #1E2B4D;" />
-</p>
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/00815c99-1a0a-4d66-a7fc-b7e85dfb1b6f" />
+
 
 The core rendering engine implements the **Harold Thimbleby / Stuart Inglis / Ian Witten** Single-Image Stereogram (SIS) algorithm:
 
