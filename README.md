@@ -123,9 +123,8 @@ For users who have difficulty relaxing their eyes for traditional autostereogram
 
 ### 5. Side-by-Side Split Inspection
 
-<p align="center">
-  <img src="./docs/images/04_side_by_side_comparison.png" alt="Side-by-Side Comparison Mode" width="90%" style="border-radius: 10px; border: 1px solid #1E2B4D;" />
-</p>
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/96f6f4d6-c545-4489-ad77-0431582e0a04" />
+
 
 The **Side-by-Side** tab renders a real-time dual viewport comparing the encoded surface autostereogram with the underlying 2D depth structure simultaneously.
 
