@@ -1,4 +1,4 @@
-# 🔮 Stereogram Hidden Font Studio
+#  Stereogram Hidden Font Studio
 
 <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/927395b7-3b22-463f-9ed7-cc23a65221b0" />
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 📖 Table of Contents
+##  Table of Contents
 
 - [Overview](#-overview)
 - [How It Works — Step-by-Step Pipeline](#-how-it-works--step-by-step-pipeline)
@@ -36,7 +36,7 @@
 
 ---
 
-## 🌟 Overview
+##  Overview
 
 **Stereogram Hidden Font Studio** converts ordinary text strings (such as `"PHANTOMGRID"`, `"MAGIC EYE"`, or custom typography) into mathematically encoded 3D depth structures embedded inside seamless, repeating procedural textures.
 
@@ -44,7 +44,7 @@ When viewed with the correct optical stereogram eye-focusing technique (or using
 
 ---
 
-## 🔬 How It Works — Step-by-Step Pipeline
+##  How It Works — Step-by-Step Pipeline
 
 ```
 [User Text / Font Selection] 
@@ -179,7 +179,7 @@ where:
 
 ---
 
-## 👁️ Eye Focusing Guide
+##  Eye Focusing Guide
 
 ### 1. Parallel / Wall-Eyed Method (Magic Eye Standard)
 1. Hold your face about **12–18 inches** away from the screen.
@@ -196,7 +196,7 @@ where:
 
 ---
 
-## 📁 Project Architecture
+##  Project Architecture
 
 ```
 c:/Users/hasim/OneDrive/Desktop/Font/
@@ -240,7 +240,7 @@ c:/Users/hasim/OneDrive/Desktop/Font/
 
 ---
 
-## 🚀 Getting Started & Local Setup
+##  Getting Started & Local Setup
 
 ### Prerequisites
 - **Node.js** (v18 or higher)
@@ -271,7 +271,7 @@ npm run build
 
 ---
 
-## 🔒 Privacy & Local Processing
+##  Privacy & Local Processing
 
 - **100% Client-Side**: All font rasterization, depth map generation, texture synthesis, and high-res image export happen entirely inside your browser using Web Workers and HTML Canvas.
 - **Zero Server Uploads**: Your custom text, uploaded fonts, and generated stereogram artwork never leave your machine.
