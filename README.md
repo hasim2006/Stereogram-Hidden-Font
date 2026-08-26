@@ -110,9 +110,8 @@ The core rendering engine implements the **Harold Thimbleby / Stuart Inglis / Ia
 
 ### 4. Instant 3D Parallax Wiggle & Anaglyph Validation
 
-<p align="center">
-  <img src="./docs/images/03_wiggle_3d_parallax_proof.png" alt="3D Parallax Wiggle Simulator" width="90%" style="border-radius: 10px; border: 1px solid #1E2B4D;" />
-</p>
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/a5954bc5-f1f8-4e47-b808-4d61af0ca24d" />
+
 
 For users who have difficulty relaxing their eyes for traditional autostereograms, the studio provides an **interactive 2.5D Parallax Wiggle Simulator**:
 
