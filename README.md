@@ -78,9 +78,8 @@ The user types custom text and selects from Google Fonts (*Orbitron, Space Grote
 
 ### 2. 3D Depth Map Generation & Euclidean Distance Beveling
 
-<p align="center">
-  <img src="./docs/images/02_depth_map_generation.png" alt="2D Depth Map Telemetry" width="90%" style="border-radius: 10px; border: 1px solid #1E2B4D;" />
-</p>
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/48b9770b-866a-4791-9d63-26dfe7ea8856" />
+
 
 Instead of using flat 2D silhouettes, the studio applies an **Euclidean Distance Transform (EDT)** and **Gaussian Filtering** to generate multi-dimensional 3D surfaces:
 
