@@ -132,9 +132,8 @@ The **Side-by-Side** tab renders a real-time dual viewport comparing the encoded
 
 ### 6. High-Resolution 4K Studio Export
 
-<p align="center">
-  <img src="./docs/images/06_high_res_4k_export.png" alt="High-Resolution 4K Export Studio" width="80%" style="border-radius: 10px; border: 1px solid #1E2B4D;" />
-</p>
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/29bad4ad-8abe-4497-8182-24cfbe8ffabc" />
+
 
 - **Export Resolutions**:
   - `1200 × 800` (Default Preview)
